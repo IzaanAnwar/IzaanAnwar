@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izaanawar" alt="izaanawar" /></a> </p>
 
-- 🔭 I’m currently working on [galzzy.com](galzzy.vercel.app)
+- 🔭 I’m currently working on [galzzy.com](https://galzzy.vercel.app)
 
 - 🌱 I’m currently learning **SolidStart, Rust/C++**# 💫 About Me:
 👋 Hi, I'm Izaan <br>🚀 Passionate about Web Dev. <br>I enjoy solving problems through code and collaborating on open-source projects. <br>Check out my repos and let's connect! 💻✨
