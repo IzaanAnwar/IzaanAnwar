@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [galzzy.com](https://galzzy.vercel.app)
 
-- 🌱 I’m currently learning **SolidStart, Rust/C++**# 💫 About Me:
+- 🌱 I’m currently learning **Go, Kubernetes**# 💫 About Me:
 👋 Hi, I'm Izaan <br>🚀 Passionate about Web Dev. <br>I enjoy solving problems through code and collaborating on open-source projects. <br>Check out my repos and let's connect! 💻✨
 
 
